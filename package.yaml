@@ -25,6 +25,9 @@ dependencies:
 - bytestring
 - utf8-string
 - hspec
+- time
+- doctest
+- haskeline
 
 library:
   source-dirs: src
